@@ -144,6 +144,25 @@ For further assistance, feel free to open an issue in the repository.
 You’re all set! 🎉 If you encounter any additional issues, don’t hesitate to reach out.
 
 ---
+### User
+
+| Feature           | Screenshot                                                                                     |
+|-------------------|------------------------------------------------------------------------------------------------|
+| Home Page         | <img src="https://github.com/user-attachments/assets/8d930aee-b67b-46b6-978f-b380b75a1f17" width="200" height="355"/> |
+| Property details Page | <img src="https://github.com/user-attachments/assets/5dd82f37-503e-49f8-afcd-154c3a597ca6" width="200" height="355"/> |
+| Chat Page         | <img src="https://github.com/user-attachments/assets/f9f530f9-4e4c-4096-a020-8e451ff624d6"/> |
+| ValuationsPage    | <img src="https://github.com/user-attachments/assets/f5f45ca8-19f4-4eb0-8333-d3db79ad3706" width="200" height="355"/> |
+
+
+
+
+
+
+
+
+
+
+--
 
 ## 💻 **Technology Stack**  
 
