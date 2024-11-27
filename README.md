@@ -162,14 +162,36 @@ You’re all set! 🎉 If you encounter any additional issues, don’t hesitate 
 
 | Feature           | Screenshot                                                                                     |
 |-------------------|------------------------------------------------------------------------------------------------|
-| Home Page         | <img src="https://github.com/user-attachments/assets/8d930aee-b67b-46b6-978f-b380b75a1f17" width="200" height="355"/> |
-| Property details Page | <img src="https://github.com/user-attachments/assets/5dd82f37-503e-49f8-afcd-154c3a597ca6" width="200" height="355"/> |
-| Chat Page         | <img src="https://github.com/user-attachments/assets/f9f530f9-4e4c-4096-a020-8e451ff624d6" width="200" height="355"/> |
-| Valuations Page   | <img src="https://github.com/user-attachments/assets/f5f45ca8-19f4-4eb0-8333-d3db79ad3706" width="200" height="355"/> |
-| Free valuation Page | <img src="https://github.com/user-attachments/assets/1bdaab0b-f481-4220-a4bb-e4a9a1b93eb2" width="200" height="355"/> |
-| Bookmarks Page    | <img src="https://github.com/user-attachments/assets/4c9d513c-4252-488b-9cba-d8969c99ace8" width="200" height="355"/> |
-| Settings Page     | <img src="https://github.com/user-attachments/assets/d09a57b7-0b2a-4ffe-b65f-346c4d1f95b8" width="200" height="355"/> |
+| Home Page         | <img src="https://github.com/user-attachments/assets/8d930aee-b67b-46b6-978f-b380b75a1f17" width="200" height="403"/> |
+| Property details Page | <img src="https://github.com/user-attachments/assets/8450384b-c26b-4e21-817d-ea0f38507e22" width="200" height="403"/> |
+| Contact Agent     | <img src="https://github.com/user-attachments/assets/58f86570-66cb-459b-9753-9474f4e24f56" width="200" height="403"/> |
+| Chat Page         | <img src="https://github.com/user-attachments/assets/f9f530f9-4e4c-4096-a020-8e451ff624d6" width="200" height="403"/> |
+| Valuations Page   | <img src="https://github.com/user-attachments/assets/f5f45ca8-19f4-4eb0-8333-d3db79ad3706" width="200" height="403"/> |
+| Free valuation Page | <img src="https://github.com/user-attachments/assets/1bdaab0b-f481-4220-a4bb-e4a9a1b93eb2" width="200" height="403"/> |
+| Bookmarks Page    | <img src="https://github.com/user-attachments/assets/4c9d513c-4252-488b-9cba-d8969c99ace8" width="200" height="403"/> |
+| Settings Page     | <img src="https://github.com/user-attachments/assets/d09a57b7-0b2a-4ffe-b65f-346c4d1f95b8" width="200" height="403"/> |
 
+
+### Agent
+
+| Feature           | Screenshot                                                                                     |
+|-------------------|------------------------------------------------------------------------------------------------|
+| Home Page         | <img src="https://github.com/user-attachments/assets/8d930aee-b67b-46b6-978f-b380b75a1f17" width="200" height="403"/> |
+| Property details Page | <img src="https://github.com/user-attachments/assets/8450384b-c26b-4e21-817d-ea0f38507e22" width="200" height="403"/> |
+| Valuations Page   | <img src="https://github.com/user-attachments/assets/edd523ce-aa61-4f72-9b8f-de9cd371ecb0" width="200" height="403"/> <img src="https://github.com/user-attachments/assets/60f9a304-47ea-4cf1-a7b8-f71d3df18e62" width="200" height="403"/>|
+| Create Property Page | <img src="https://github.com/user-attachments/assets/8808ac65-49d5-49ac-b334-fd9c06e8bfe9" width="200" height="403"/> |
+| Select Images Page   | <img src="https://github.com/user-attachments/assets/b4d224dd-e406-408c-868a-52838ec61fdd" width="200" height="403"/> <img src="https://github.com/user-attachments/assets/ec5d8bc7-d0c8-4f79-9f3a-0b7c496bbc88" width="200" height="403"/> |
+| Select Location Page | <img src="https://github.com/user-attachments/assets/35af9ce1-9240-4663-81cc-3a2616c9c1e1" width="200" height="403"/> |
+| Select Owner Page    | <img src="https://github.com/user-attachments/assets/fc92d794-ac0a-4e07-acd0-dc86c83794e4" width="200" height="403"/> |
+
+
+
+### Admin
+
+| Feature           | Screenshot                                                                                     |
+|-------------------|------------------------------------------------------------------------------------------------|
+| Analytics Page        | <img src="https://github.com/user-attachments/assets/d47b9dec-8fbc-4943-a469-b6000a3729a9" width="200" height="403"/> |
+| Property details Page | <img src="https://github.com/user-attachments/assets/7480d4a0-9cc0-44c2-9754-a6fb4072607d" width="200" height="403"/> |
 
 
 ---
