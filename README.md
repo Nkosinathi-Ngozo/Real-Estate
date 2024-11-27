@@ -144,25 +144,6 @@ For further assistance, feel free to open an issue in the repository.
 You’re all set! 🎉 If you encounter any additional issues, don’t hesitate to reach out.
 
 ---
-### User
-
-| Feature           | Screenshot                                                                                     |
-|-------------------|------------------------------------------------------------------------------------------------|
-| Home Page         | <img src="https://github.com/user-attachments/assets/8d930aee-b67b-46b6-978f-b380b75a1f17" width="200" height="355"/> |
-| Property details Page | <img src="https://github.com/user-attachments/assets/5dd82f37-503e-49f8-afcd-154c3a597ca6" width="200" height="355"/> |
-| Chat Page         | <img src="https://github.com/user-attachments/assets/f9f530f9-4e4c-4096-a020-8e451ff624d6"/> |
-| ValuationsPage    | <img src="https://github.com/user-attachments/assets/f5f45ca8-19f4-4eb0-8333-d3db79ad3706" width="200" height="355"/> |
-
-
-
-
-
-
-
-
-
-
---
 
 ## 💻 **Technology Stack**  
 
@@ -173,12 +154,26 @@ You’re all set! 🎉 If you encounter any additional issues, don’t hesitate 
 [![Firebase Authentication](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/docs/auth)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
----
-
-
 
 ---
-## 📝 License
+## 📸 **Screenshots**
+
+### User
+
+| Feature           | Screenshot                                                                                     |
+|-------------------|------------------------------------------------------------------------------------------------|
+| Home Page         | <img src="https://github.com/user-attachments/assets/8d930aee-b67b-46b6-978f-b380b75a1f17" width="200" height="355"/> |
+| Property details Page | <img src="https://github.com/user-attachments/assets/5dd82f37-503e-49f8-afcd-154c3a597ca6" width="200" height="355"/> |
+| Chat Page         | <img src="https://github.com/user-attachments/assets/f9f530f9-4e4c-4096-a020-8e451ff624d6" width="200" height="355"/> |
+| Valuations Page   | <img src="https://github.com/user-attachments/assets/f5f45ca8-19f4-4eb0-8333-d3db79ad3706" width="200" height="355"/> |
+| Free valuation Page | <img src="https://github.com/user-attachments/assets/1bdaab0b-f481-4220-a4bb-e4a9a1b93eb2" width="200" height="355"/> |
+| Bookmarks Page    | <img src="https://github.com/user-attachments/assets/4c9d513c-4252-488b-9cba-d8969c99ace8" width="200" height="355"/> |
+| Settings Page     | <img src="https://github.com/user-attachments/assets/d09a57b7-0b2a-4ffe-b65f-346c4d1f95b8" width="200" height="355"/> |
+
+
+
+---
+## 📝 **License**
 
 This project is licensed under the [MIT License](LICENSE).  
 Feel free to use, modify, and distribute it as per the license terms.
