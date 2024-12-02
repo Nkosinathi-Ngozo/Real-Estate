@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="20dp"
+    android:paddingHorizontal="25dp"
+    android:paddingBottom="10dp"
+    >
+
+    <!-- Card Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:orientation="vertical"
+            android:background="@drawable/visa"
+            android:padding="16dp"
+            android:layout_marginBottom="20dp"/>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/nameOnCard"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:inputType="text"
+            android:paddingHorizontal="12dp"
+            android:paddingVertical="4dp"
+            android:fontFamily="@font/inter_medium"
+            android:hint="@string/nameOnCard"
+            android:background="@drawable/edittext_background"
+            android:textSize="14sp"
+            />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/cardNo"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:inputType="number"
+            android:paddingHorizontal="12dp"
+            android:paddingVertical="4dp"
+            android:fontFamily="@font/inter_medium"
+            android:hint="@string/cardNo"
+            android:background="@drawable/edittext_background"
+            android:textSize="14sp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp">
+
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/cvv"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:inputType="number"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="4dp"
+                android:fontFamily="@font/inter_medium"
+                android:hint="@string/cvv"
+                android:background="@drawable/edittext_background"
+                android:textSize="14sp"
+                android:layout_marginEnd="5dp" />
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/expiryDate"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:digits="0123456789/"
+                android:inputType="text"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="4dp"
+                android:fontFamily="@font/inter_medium"
+                android:hint="@string/expiryDate"
+                android:background="@drawable/edittext_background"
+                android:textSize="14sp"
+                android:layout_marginStart="5dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="end"
+        android:orientation="vertical">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="?attr/ItemBorder"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginHorizontal="20dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center_vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="15sp"
+                    android:text="@string/contact_agent"
+                    android:fontFamily="@font/inter"
+                    android:layout_marginBottom="6dp"/>
+
+                <TextView
+                    android:id="@+id/property_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:text="R6 000 000"
+                    android:fontFamily="@font/inter_semibold"/>
+            </LinearLayout>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/buy_now"
+                android:layout_width="120dp"
+                android:layout_height="40dp"
+                android:backgroundTint="@color/black"
+                android:text="@string/buy_now"
+                android:textSize="13sp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/inter"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
